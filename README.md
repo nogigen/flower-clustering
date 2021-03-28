@@ -1,5 +1,6 @@
 # flower clustering
-Training a simple ConvNet to classify fruits and vegetables with PyTorch
+
+This projects purpose is to cluster flower images.
 
 [Dataset](https://www.kaggle.com/olgabelitskaya/flower-color-images) is available in kaggle. Download the dataset, unzip it to where .ipynb file is.
 
